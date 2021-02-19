@@ -4,6 +4,8 @@
 
 </p>
 
+# 印度小哥开源了一个手写体转换工具，支持中文
+
 ## 🌠 Output
 
 <img width="400" alt="Sample image of output" src="sample.jpeg" />
